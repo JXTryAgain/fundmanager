@@ -1,0 +1,13 @@
+1. Need a dummy Log in page
+2. Consent Page (also display percentage of contribution)-this can leave it blank first
+3. Survey Page
+4. (Navigation panel: Dashboard, Transaction History, Settings)
+  - Landing Page (Dashboard)
+    AUM
+    Portfolio Composition
+    Time-series AUM
+    Transaction History 
+  - Return History
+    Daily
+    Monthly
+    Yearly
